@@ -3,12 +3,12 @@
 
 You can create custom "Buy now" button for a single item that works with Monetha payment gateway.
 
-Setup guide is available on our website - https://www.monetha.io/en/mvp/buynowbutton
+Setup guide is available on our website - https://ico.monetha.io/en/mvp/buynowbutton
 
 Contact email for your questions: team@monetha.io
 
 # Button code
-You can generate "Buy now" button on our website - https://www.monetha.io/en/mvp/monethabutton
+You can generate "Buy now" button on our website - https://ico.monetha.io/en/mvp/monethabutton
 
 Here is sample of "Buy now" button code that you need to place on your website:
 ```html

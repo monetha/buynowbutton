@@ -28,3 +28,6 @@ Below you can see a sample of "Buy now" button code that will get generated and 
   
 ```
 **Please note** button code above is only an example code that will not work if copy it to your site
+
+
+### If you have any questions or requests, feel free to ask them via support@monetha.io
